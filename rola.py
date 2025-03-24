@@ -1,0 +1,1 @@
+from .mysite import application, urlpatterns, MIDDLEWARE
