@@ -1,0 +1,12 @@
+CRUD To-Do List Web Application
+
+Set up a Django project and app.
+Implement CRUD operations for tasks.
+Create view to create task
+Create view to list all tasks
+Create view to get one task using an id
+Create view to update a task
+Create view to delete a task using an id
+Setup url routes to the CRUD views.
+
+Make the home page list all tasks or a welcome Message when no tasks are found
