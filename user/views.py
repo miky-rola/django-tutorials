@@ -18,6 +18,11 @@
 #     email="test3@email.com",
 #     age=4
 # )
+
+task = {
+"title":"andoh Harriet",
+"description":"test2@email.com",
+}
 from rest_framework.viewsets import ModelViewSet
 from rest_framework.permissions import AllowAny
 from .serializers import TaskSerializer
